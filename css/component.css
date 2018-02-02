@@ -21,13 +21,13 @@
 /* Text styling */
 .cbp-so-section h2 {
 	font-family: 'Playfair Display', serif;
-	font-size: 4em;
+	font-size: 3em;
 	font-weight: 300;
 	line-height: 1;
 }
 
 .cbp-so-section p {
-	font-size: 2em;
+	font-size: 180%;
 	font-weight: 300;
 }
 
